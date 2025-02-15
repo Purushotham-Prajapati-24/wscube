@@ -38,7 +38,7 @@
     .Curriculum{
         width: 100%;
         margin-bottom: 16px;
-        font-size: 20px;
+        font-size: 18px;
         margin-left: 0% ;
     }
     
@@ -54,13 +54,38 @@
         align-items: center;
        
     }
+    .Book{
+        font-weight: bold;
+        text-align: center;
+        font-size: 40px;
+    }
     
     .form-control {
         width: 100%;
     }
+    .form{
+        padding: 0px 40px;
+    }
     
     .row {
         width: 100%;
+    }
+
+    .bannerbtn {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .Counter{
+        display: flex;
+        flex-direction: column;
+        justify-self: center;
+    }
+
+    .Counter col{
+        width: 100%;
+        margin-top: 200px;
+        margin-bottom: 20px;
     }
 }
 
