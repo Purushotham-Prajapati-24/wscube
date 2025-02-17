@@ -8,6 +8,7 @@
         padding: 10px;
         background-color: white;
     }
+   
     .Banner h1{
         font-size: 35px;
         text-align: center;
@@ -53,11 +54,15 @@
         padding: 0 15px;
         align-items: center;
        
+       
     }
     .Book{
         font-weight: bold;
         text-align: center;
         font-size: 40px;
+    }
+    .Book p{
+        text-align: center;
     }
     
     .form-control {
